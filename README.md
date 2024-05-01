@@ -28,6 +28,7 @@ Vous pouvez installer les dépendances requises à l'aide de pip :
 
 ```
 pip install pymysql
+pip install sqlite3
 ```
 
 ## Exemple d'utilisation
